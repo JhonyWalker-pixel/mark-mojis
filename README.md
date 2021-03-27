@@ -1,3 +1,7 @@
+<h1 align="center">
+    <img src="./images/markmojis-repo.png" alt="Markmojis by Jhony Walker" width="300px" />
+</h1>
+
 ![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master) [![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
 
 ## :clipboard: About the project
